@@ -1,0 +1,7 @@
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.Domain\bin\Debug\netstandard1.4\Distributed.Domain.deps.json
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.Domain\bin\Debug\netstandard1.4\Distributed.Domain.dll
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.Domain\bin\Debug\netstandard1.4\Distributed.Domain.pdb
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.Domain\obj\Debug\netstandard1.4\Distributed.Domain.AssemblyInfo.cs
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.Domain\obj\Debug\netstandard1.4\Distributed.Domain.dll
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.Domain\obj\Debug\netstandard1.4\Distributed.Domain.pdb
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.Domain\obj\Debug\netstandard1.4\Distributed.Domain.csprojResolveAssemblyReference.cache

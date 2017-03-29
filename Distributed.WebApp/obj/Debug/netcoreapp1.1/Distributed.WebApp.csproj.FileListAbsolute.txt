@@ -1,0 +1,15 @@
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.WebApp\bin\Debug\netcoreapp1.1\Distributed.WebApp.deps.json
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.WebApp\bin\Debug\netcoreapp1.1\Distributed.WebApp.runtimeconfig.json
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.WebApp\bin\Debug\netcoreapp1.1\Distributed.WebApp.runtimeconfig.dev.json
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.WebApp\bin\Debug\netcoreapp1.1\Distributed.WebApp.dll
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.WebApp\bin\Debug\netcoreapp1.1\Distributed.WebApp.pdb
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.WebApp\obj\Debug\netcoreapp1.1\Distributed.WebApp.csprojResolveAssemblyReference.cache
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.WebApp\obj\Debug\netcoreapp1.1\Distributed.WebApp.AssemblyInfo.cs
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.WebApp\obj\Debug\netcoreapp1.1\Distributed.WebApp.dll
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.WebApp\obj\Debug\netcoreapp1.1\Distributed.WebApp.pdb
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.WebApp\bin\Debug\netcoreapp1.1\Distributed.Domain.dll
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.WebApp\bin\Debug\netcoreapp1.1\Distributed.Repository.dll
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.WebApp\bin\Debug\netcoreapp1.1\Distributed.Domain.pdb
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.WebApp\bin\Debug\netcoreapp1.1\Distributed.Repository.pdb
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.WebApp\obj\Debug\netcoreapp1.1\Distributed.WebApp.Resources.SharedResources.resources
+F:\Навчання\Магістерська\Soft\Distributed.WebApp\Distributed.WebApp\obj\Debug\netcoreapp1.1\Distributed.WebApp.csproj.GenerateResource.Cache
